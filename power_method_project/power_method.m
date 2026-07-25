@@ -7,6 +7,7 @@ cols = 4;
 first_num = 1;
 last_num = 80;
 A = randi([first_num,last_num],rows,cols)
+% A = [2 3; 4 3];
 %%
 
 tau = 0.001;
